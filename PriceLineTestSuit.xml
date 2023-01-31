@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ODSRegression" parallel="tests" verbose="1"
+	configfailurepolicy="continue" thread-count="1">
+
+	<test name="ODSRegression Tests">
+<!--		<parameter name="ExecutionMode" value="LOCAL" />-->
+		<classes>
+			<class name="testrunner.SecureChatTestRunner.SecureChatTestRunner" />
+		</classes>
+	</test>
+
+</suite>

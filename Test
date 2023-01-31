@@ -1,0 +1,95 @@
+default:
+  image: markhobson/maven-chrome:jdk-11
+
+variables:
+  MAVEN_CLI_OPTS: "--batch-mode --errors --fail-at-end --show-version -DinstallAtEnd=true -DdeployAtEnd=true"
+  MAVEN_OPTS: "-Dhttps.protocols=TLSv1.2 -Dmaven.repo.local=.m2/repository -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN -Dorg.slf4.simpleLogger.showDateTime=true -Djava.awt.headless=true"
+
+
+
+cache:
+  paths:
+    - .m2/repository
+    - target/
+
+stages:
+  - test
+  - deploy
+  - notify
+
+before_script:
+  - apt-get -qq update && apt-get -qq install -y python
+  - apt-get -qq update
+  - apt install -y python3-pip
+  - pip3 --version
+  
+
+
+# build:
+#   stage: build
+#   script:
+#     # - apt update
+#     # - wget https://github.com/allure-framework/allure2/releases/download/2.13.8/allure-2.13.8.zip
+#     # - apt install unzip -y
+#     # - unzip allure-2.13.8.zip
+#     # - mvn $MAVEN_CLI_OPTS clean package
+#     # - mvn clean compile
+
+test:
+  stage: test
+  tags:
+    - stage
+  allow_failure: true
+  script:
+    - apt update
+    - wget https://github.com/allure-framework/allure2/releases/download/2.8.0/allure-2.8.0.zip
+    - apt install unzip -y
+    - unzip allure-2.8.0.zip
+    - pip3 install allure-combine
+    - mvn $MAVEN_CLI_OPTS clean package
+    - mvn clean compile
+    - mvn clean -Dtest=PatchDayTestsRunner test
+    - ./allure-2.8.0/bin/allure generate target/allure-results -o target/allure-report --auto-create-folders
+    - allure-combine target/allure-report
+
+  after_script:
+    - echo "JOB_ID=$CI_JOB_ID" >> job.env
+    
+  
+    
+  artifacts:
+   reports:
+    dotenv: job.env
+   paths:
+     - target/allure-report
+   when: always
+   name: "Report"
+   expire_in: 15 days
+
+
+deploy:
+  stage: deploy
+  script:
+    - mvn $MAVEN_CLI_OPTS deploy
+  only:
+    - master
+
+# send_email:
+#   stage: notify
+#   when: always
+#   image: corentinaltepe/heirloom-mailx
+#   before_script:
+#     - echo ""
+#   script:
+#     - echo "This is the body of the email" | mailx -v -r "gitlab@rowlf.heroes.bayada.com" -a "target/allure-report" -s "BaySQAAutomation" -S smtp=smtp://smtp.heroes.bayada.com sodabas@bayada.com
+
+send_email:
+  stage: notify
+  when: always
+  image: corentinaltepe/heirloom-mailx
+  
+  before_script:
+  - echo ""
+  
+  script:
+    - echo "Archive Download https://rowlf.heroes.bayada.com/sqa_automation_group/baysqaautomation/-/jobs/${JOB_ID}/artifacts/download?file_type=archive" | mailx -v -r "gitlab@rowlf.heroes.bayada.com" -a "target/allure-report" -s "BaySQAAutomation" -S smtp=smtp://smtp.heroes.bayada.com sodabas@bayada.com

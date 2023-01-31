@@ -1,0 +1,2741 @@
+<ServiceResponseOfArrayOfMasterClientDtopioRTupJ xmlns="http://schemas.datacontract.org/2004/07/Bayada.Service"
+                                                 xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <ErrorDescription xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+    <Response xmlns:a="http://schemas.datacontract.org/2004/07/MasterDataService">
+        <a:MasterClientDto>
+            <a:Address1>70 W. George St</a:Address1>
+            <a:Address2 i:nil="true"/>
+            <a:AgeInYears>32</a:AgeInYears>
+            <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+            <a:City>Phoenix</a:City>
+            <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE</a:Description>
+            <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+            <a:GenderCode>F</a:GenderCode>
+            <a:Id>70840811</a:Id>
+            <a:Identifiers>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>615 meehan dr</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>WARRINGTON</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County>US</a:County>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (29)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210963</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>18976</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>7328331564</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>29</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>PA</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>6112 DODSWORTH CT</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>RALEIGH</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County/>
+                    <a:Description>HUSKINS, HARRIET (117)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email>k_huskins02@yahoo.com</a:Email>
+                    <a:FirstName>HARRIET</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210964</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>HUSKINS</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>0</a:OfficeNumber>
+                    <a:PayorCode>PV-0714</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>27612</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>Assessment</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>7043220969Hazel</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9194925456Stewart</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>117</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NC</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>6112 DODSWORTH CT</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>RALEIGH</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County/>
+                    <a:Description>HUSKINS, HARRIET (414)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email>k_huskins02@yahoo.com</a:Email>
+                    <a:FirstName>HARRIET</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210965</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>HUSKINS</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>0</a:OfficeNumber>
+                    <a:PayorCode>PV-0714</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>27612</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHAG</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>7043220969Hazel</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9194925456Stewart</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>414</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NC</a:State>
+                    <a:StatusCode>discharged</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (29)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216227</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>29</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (35)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216228</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>35</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5020)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216209</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName>METLIFE</a:PayorGroupName>
+                    <a:PayorName>METLIFE LONG TERM CARE</a:PayorName>
+                    <a:PayorProgramName/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5020</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (81)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216229</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25715</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>81</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (152)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216546</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>LPN</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>152</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (175)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216547</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>LPNV</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>175</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (181)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216548</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>32297</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>AAC141ClientFNOne AAC141ClientLNOne</a:PayorName>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode>PRIV</a:PayorTypeCode>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>OTAV</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>181</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (222)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216549</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>CNA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>222</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5082)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216550</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25715</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>BCBS NJ</a:PayorName>
+                    <a:PayorProgramName>PCA</a:PayorProgramName>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5082</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5084)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216552</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>UHC/NJ</a:PayorName>
+                    <a:PayorProgramName>TESTR1</a:PayorProgramName>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>LPNV</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5084</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5083)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216551</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>UHC/NJ</a:PayorName>
+                    <a:PayorProgramName>TESTR1</a:PayorProgramName>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5083</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140404</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (327)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217762</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>327</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140404</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (352)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217800</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>352</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140404</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (353)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217801</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>32297</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>AAC141ClientFNOne AAC141ClientLNOne</a:PayorName>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode>PRIV</a:PayorTypeCode>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>353</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053548</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>CSM141LN, CSM141FN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5085)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216553</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>0-25766</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>AAC141ClientFNOne AAC141ClientLNOne</a:PayorName>
+                    <a:PayorProgramName/>
+                    <a:PayorTypeCode>PRIV</a:PayorTypeCode>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5085</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (355)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217807</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25737</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>CNA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>355</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5131)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217808</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25737</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>HRZ/NJ</a:PayorName>
+                    <a:PayorProgramName>TestCTR</a:PayorProgramName>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5131</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (356)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217809</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25715</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>356</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>70 W. George St</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Phoenix</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1143289</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>Fierro, Janie (11-3035)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>100113035</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (357)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217810</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-25737</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>85007</a:PostalCode>
+                    <a:PrimaryDiagnosisCode>A1811=Tuberculosis of kidney and ureter</a:PrimaryDiagnosisCode>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6091112222</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>9089072118</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>357</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>AZ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1190935</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>McLeod, Julia (11-13365)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>101113365</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (223)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216554</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>32260</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>AAC6ClientFNThree AAC6ClientLNThree</a:PayorName>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode>PRIV</a:PayorTypeCode>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>TV</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>223</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1190935</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>McLeod, Julia (11-13365)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (6-30059)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216555</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>0-25759</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>AAC6ClientFNThree AAC6ClientLNThree</a:PayorName>
+                    <a:PayorProgramName/>
+                    <a:PayorTypeCode>PRIV</a:PayorTypeCode>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>TV</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>6-30059</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1190935</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>McLeod, Julia (11-13365)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>101113365</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (257)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1216588</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>257</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>1190935</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>McLeod, Julia (11-13365)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (6-30064)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource/>
+                    <a:Id>1216589</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-9719</a:PayorCode>
+                    <a:PayorGroupName>METLIFE</a:PayorGroupName>
+                    <a:PayorName>METLIFE LONG TERM CARE</a:PayorName>
+                    <a:PayorProgramName/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>COMP</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>6-30064</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053250</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>IzzyOfcEmpLN, IzzyOfcEmpFN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140165</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (315)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217749</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHAV1</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>315</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053250</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>IzzyOfcEmpLN, IzzyOfcEmpFN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (6-30075)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217750</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>UHC/NJ</a:PayorName>
+                    <a:PayorProgramName>TESTR1</a:PayorProgramName>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>LI</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>6-30075</a:SourceSystemId>
+                    <a:SpecialtyCode>APC</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053250</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>IzzyOfcEmpLN, IzzyOfcEmpFN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140165</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (324)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217759</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHAV3</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>324</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053250</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>IzzyOfcEmpLN, IzzyOfcEmpFN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140165</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (325)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217760</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHAV2</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>325</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>2, Cedar View Drive</a:Address1>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears>32</a:AgeInYears>
+                    <a:BirthDate>1990-06-01T00:00:00</a:BirthDate>
+                    <a:City>Jackson</a:City>
+                    <a:ClientId>70840811</a:ClientId>
+                    <a:ClientServiceManagerId>10053250</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>IzzyOfcEmpLN, IzzyOfcEmpFN</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber>105140165</a:ClientServiceManagerNumber>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC6CLIENTLNTHREE, AAC6CLIENTFNTHREE (358)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC6CLIENTFNTHREE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1217811</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC6CLIENTLNTHREE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>6</a:OfficeNumber>
+                    <a:PayorCode>11-25722</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>08527</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>LI</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>6099090101</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>ALAYACARE</a:SourceSystem>
+                    <a:SourceSystemId>358</a:SourceSystemId>
+                    <a:SpecialtyCode>Assistive Care</a:SpecialtyCode>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NJ</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+            </a:Identifiers>
+            <a:LastName>AAC141CLIENTLNONE</a:LastName>
+            <a:MiddleInitial i:nil="true"/>
+            <a:Phone i:nil="true"/>
+            <a:SocialSecurityNumber i:nil="true"/>
+            <a:State>AZ</a:State>
+            <a:Zip i:nil="true"/>
+        </a:MasterClientDto>
+        <a:MasterClientDto>
+            <a:Address1>615 meehan dr</a:Address1>
+            <a:Address2/>
+            <a:AgeInYears i:nil="true"/>
+            <a:BirthDate>0001-01-01T00:00:00</a:BirthDate>
+            <a:City>WARRINGTON</a:City>
+            <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE</a:Description>
+            <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+            <a:GenderCode>F</a:GenderCode>
+            <a:Id>70840817</a:Id>
+            <a:Identifiers>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>615 meehan dr</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears i:nil="true"/>
+                    <a:BirthDate i:nil="true"/>
+                    <a:City>WARRINGTON</a:City>
+                    <a:ClientId>70840817</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County>US</a:County>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (35)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210981</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-13404</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>18976</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>7328331564</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>35</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>PA</a:State>
+                    <a:StatusCode>active</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>109 PRESLEY BLVD.</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears i:nil="true"/>
+                    <a:BirthDate i:nil="true"/>
+                    <a:City>GARNER</a:City>
+                    <a:ClientId>70840817</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County/>
+                    <a:Description>LUFFE, LAVERNE (148)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email>lnascarlady@aol.com</a:Email>
+                    <a:FirstName>LAVERNE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210982</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>LUFFE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>0</a:OfficeNumber>
+                    <a:PayorCode>PV-0714</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>27529</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>Supervision</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>9195856146</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>4123201182</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>148</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NC</a:State>
+                    <a:StatusCode>discharged</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1>109 PRESLEY BLVD.</a:Address1>
+                    <a:Address2/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears i:nil="true"/>
+                    <a:BirthDate i:nil="true"/>
+                    <a:City>GARNER</a:City>
+                    <a:ClientId>70840817</a:ClientId>
+                    <a:ClientServiceManagerId i:nil="true"/>
+                    <a:ClientServiceManagerName i:nil="true"/>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId i:nil="true"/>
+                    <a:ClinicalManagerName i:nil="true"/>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County/>
+                    <a:Description>LUFFE, LAVERNE (149)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email>lnascarlady@aol.com</a:Email>
+                    <a:FirstName>LAVERNE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource i:nil="true"/>
+                    <a:Id>1210983</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>LUFFE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>0</a:OfficeNumber>
+                    <a:PayorCode>PV-0714</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName i:nil="true"/>
+                    <a:PayorProgramName i:nil="true"/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode>27529</a:PostalCode>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>Assessment</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>9195856146</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone>4123201182</a:SecondaryPhone>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>MOCK</a:SourceSystem>
+                    <a:SourceSystemId>149</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State>NC</a:State>
+                    <a:StatusCode>discharged</a:StatusCode>
+                    <a:StatusDescription/>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+                <a:ClientIdentifierDto>
+                    <a:AccountsReceivableBalance i:nil="true"/>
+                    <a:Address1 i:nil="true"/>
+                    <a:Address2 i:nil="true"/>
+                    <a:AdmitDate i:nil="true"/>
+                    <a:AgeInYears i:nil="true"/>
+                    <a:BirthDate i:nil="true"/>
+                    <a:City i:nil="true"/>
+                    <a:ClientId>70840817</a:ClientId>
+                    <a:ClientServiceManagerId>1128668</a:ClientServiceManagerId>
+                    <a:ClientServiceManagerName>ONISKEY, KATHY (213199)</a:ClientServiceManagerName>
+                    <a:ClientServiceManagerNumber i:nil="true"/>
+                    <a:ClinicalManagerId>1128668</a:ClinicalManagerId>
+                    <a:ClinicalManagerName>ONISKEY, KATHY (213199)</a:ClinicalManagerName>
+                    <a:ClinicalManagerNumber i:nil="true"/>
+                    <a:County i:nil="true"/>
+                    <a:Description>AAC141CLIENTLNONE, AAC141CLIENTFNONE (141-5021)</a:Description>
+                    <a:DischargeDate i:nil="true"/>
+                    <a:ElectronicVisitVerificationOptOutCode i:nil="true"/>
+                    <a:Email i:nil="true"/>
+                    <a:FirstName>AAC141CLIENTFNONE</a:FirstName>
+                    <a:FirstVisitDate i:nil="true"/>
+                    <a:GenderCode i:nil="true"/>
+                    <a:GeneralReferralSource>DPCI</a:GeneralReferralSource>
+                    <a:Id>1216210</a:Id>
+                    <a:InsuranceGroupId i:nil="true"/>
+                    <a:LastBillAmount i:nil="true"/>
+                    <a:LastBillRate i:nil="true"/>
+                    <a:LastName>AAC141CLIENTLNONE</a:LastName>
+                    <a:LastVisitDate i:nil="true"/>
+                    <a:LastWeekDate i:nil="true"/>
+                    <a:MedicaidNumber i:nil="true"/>
+                    <a:MedicalRecordNumber i:nil="true"/>
+                    <a:MiddleInitial i:nil="true"/>
+                    <a:Office i:nil="true"/>
+                    <a:OfficeDirector i:nil="true"/>
+                    <a:OfficeNumber>141</a:OfficeNumber>
+                    <a:PayorCode>11-13404</a:PayorCode>
+                    <a:PayorGroupName i:nil="true"/>
+                    <a:PayorName>ORCHID MEDICAL</a:PayorName>
+                    <a:PayorProgramName/>
+                    <a:PayorTypeCode i:nil="true"/>
+                    <a:PostalCode i:nil="true"/>
+                    <a:PrimaryDiagnosisCode i:nil="true"/>
+                    <a:PrimaryDiagnosisDescription i:nil="true"/>
+                    <a:PrimaryInsuranceId i:nil="true"/>
+                    <a:PrimaryLevelCode>HHA</a:PrimaryLevelCode>
+                    <a:PrimaryPhone>7328331564</a:PrimaryPhone>
+                    <a:SatisfactionClientEmail i:nil="true"/>
+                    <a:SatisfactionClientName i:nil="true"/>
+                    <a:SatisfactionClientPhone i:nil="true"/>
+                    <a:SatisfactionClientPreferredMethod i:nil="true"/>
+                    <a:SatisfactionClientRelation i:nil="true"/>
+                    <a:ScheduleHours i:nil="true"/>
+                    <a:SecondaryDiagnosisCode i:nil="true"/>
+                    <a:SecondaryDiagnosisDescription i:nil="true"/>
+                    <a:SecondaryInsuranceId i:nil="true"/>
+                    <a:SecondaryPhone i:nil="true"/>
+                    <a:SectorCode i:nil="true"/>
+                    <a:Skills/>
+                    <a:SourceSystem>BEARS</a:SourceSystem>
+                    <a:SourceSystemId>141-5021</a:SourceSystemId>
+                    <a:SpecialtyCode i:nil="true"/>
+                    <a:SpecialtyDescription i:nil="true"/>
+                    <a:SpecificReferralSource i:nil="true"/>
+                    <a:StartOfCareDate i:nil="true"/>
+                    <a:State i:nil="true"/>
+                    <a:StatusCode>A</a:StatusCode>
+                    <a:StatusDescription>Active</a:StatusDescription>
+                    <a:SystemClientTypeCode i:nil="true"/>
+                    <a:TotalBillAmount i:nil="true"/>
+                    <a:TotalHours i:nil="true"/>
+                    <a:TotalWeeks i:nil="true"/>
+                    <a:YearToDateBillAmount i:nil="true"/>
+                    <a:YearToDateHours i:nil="true"/>
+                    <a:YearToDateWeeks i:nil="true"/>
+                </a:ClientIdentifierDto>
+            </a:Identifiers>
+            <a:LastName>AAC141CLIENTLNONE</a:LastName>
+            <a:MiddleInitial i:nil="true"/>
+            <a:Phone i:nil="true"/>
+            <a:SocialSecurityNumber i:nil="true"/>
+            <a:State>PA</a:State>
+            <a:Zip i:nil="true"/>
+        </a:MasterClientDto>
+    </Response>
+    <ResponseCode>0</ResponseCode>
+    <TotalResponseCount>2</TotalResponseCount>
+</ServiceResponseOfArrayOfMasterClientDtopioRTupJ>

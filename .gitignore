@@ -1,0 +1,14 @@
+/target/
+.idea
+allure-report
+.properties
+/src/test/resources/TestData/bayada_payroll_export_23.xlsx
+/src/test/resources/TestData/AAC_PA_Automation_Negative.xlsx
+/src/test/resources/TestData/bayada_new.xlsx
+/src/test/resources/TestData/bayada_payroll_export_01.xlsx
+/src/test/resources/TestData/bayada_payroll_export_28.xlsx
+/src/main/java/appium/CreateSession.java
+/src/test/resources/TestData/Positive_Testing_Scenarios_AACPA.xlsx
+/src/test/resources/TestData/D29A1020
+/src/test/resources/TestData/E19B1020
+/src/main/resources/environment.properties

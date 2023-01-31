@@ -1,0 +1,3 @@
+alayacare_premium_id,alayacare_visit_id,alayacare_client_id,alayacare_service_id,alayacare_employee_id,client_id,service_id,service_bears_client_id,employee_id,premium_code,premium_date,premium_quantity,premium_pay_code,premium_pay_unit,premium_pay_rate,premium_bill_code,premium_bill_unit,premium_bill_rate,premium_funder_holiday_multiplier,premium_pay_amount,premium_bill_amount,premium_revision_user,costcentre_id
+"4940","86341","1987","525","102","","","","","Supplies (Billable)","2022-04-29","1.00","FLAT","amount","1.0000","PV-0000-FLAT","rate","1.0000","1.50","1.00","1.00","1835",""
+"4980","86276","1957","519","1656","","","","","Rideshare (Billable)","2022-04-28","15.00","FLAT","amount","1.0000","PV-0000-FLAT","rate","1.0000","1.50","15.00","15.00","1820","4"
